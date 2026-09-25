@@ -54,9 +54,9 @@ The **US dominates** both in total production volume and in high-rated productio
 
 ![Age certification analysis: volume, ratings, and type breakdown](age-restrictions.jpg)
 
-The large majority of Netflix's catalog is **Adults Only**. **Adults Only** and **Parental Guidance Strongly** content earns the highest average ratings across both movies and shows, while **General Audience** content — despite a meaningful presence in the catalog — rates noticeably lower on average. A few category/type combinations (e.g., movies in the Older Children category) have too few titles to produce a reliable average at all.
+Netflix's two largest content categories by volume — **Adults Only** (~740 titles) and **Parental Guidance Strongly** (~420 titles) — are also its two highest-rated categories, suggesting the current investment allocation is broadly well-aligned with what audiences actually rate highly. The more interesting signal is **Parental Guidance movies**: a much smaller category (~90 titles) that still rates as highly as the top two. General Audience, Older Children, and Young Children are all comparatively small categories (70–90 titles each) that also rate lower on average, with Young Children rating lowest of all. A few category/type combinations (e.g., movies in the Older Children category) don't have enough titles to produce a reliable average at all.
 
-> **Recommendation:** double down on **Parental Guidance Strongly** content — it performs nearly as well as Adults Only content while reaching a broader audience — and investigate why General Audience content underperforms despite its meaningful catalog presence, rather than assuming it's an automatic growth opportunity.
+> **Recommendation:** current investment in Adults Only and Parental Guidance Strongly content is already well-matched to what rates highly, so no correction needed there. The clearer opportunity is **Parental Guidance movies** — a small-volume category rating on par with the top performers, worth scaling up.
 
 ### Runtime: No Real Relationship to Rating
 
@@ -79,7 +79,7 @@ Movies run measurably longer than shows on average, as expected — but plotting
 1. Content creators should prioritize **Drama, Comedy, Thriller, Crime, and Romance**, particularly when based on real stories, while being more cautious with Animation, Family, and Fantasy investment
 2. **Increase Show production** — audience preference doesn't justify the current Movie-heavy catalog split
 3. The **US leads production and quality**; India, Spain, South Korea, and the UK form a strong, currently under-invested second tier
-4. Lean further into **Parental Guidance Strongly** content, which rates nearly as well as Adults Only while reaching a wider audience; treat General Audience content's underperformance as worth investigating, not assuming
+4. Netflix's largest content categories (Adults Only, Parental Guidance Strongly) are already its best-rated, so current allocation looks sound; **Parental Guidance movies** stand out as a small but equally well-rated category worth scaling up
 5. **Runtime is not a meaningful lever** for improving ratings
 6. **3–6 season shows** offer a sound, budget-conscious target for renewal decisions
 
