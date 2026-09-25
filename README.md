@@ -2,7 +2,7 @@
 
 An exploratory data analysis project examining what drives high audience ratings across Netflix's content catalog — genre, format (movies vs. shows), producing country, age certification, runtime, and season count — translating the findings into concrete content-strategy recommendations.  
 
-This work was produced in 2024 as part of a project for the Data Science Bootcamp
+This work was produced in 2024 as part of a project for the Data Science Bootcamp, Big Blue Data Academy.
 
 ## Business Case
 
