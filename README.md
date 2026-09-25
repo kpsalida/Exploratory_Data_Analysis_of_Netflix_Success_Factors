@@ -2,8 +2,6 @@
 
 An exploratory data analysis project examining what drives high audience ratings across Netflix's content catalog — genre, format (movies vs. shows), producing country, age certification, runtime, and season count — translating the findings into concrete content-strategy recommendations.
 
-**Team:** Katerina Psallida, Clelia Chelmi, [Lilly Kolliniati](https://github.com/lillykolliniati/Git-project-1-)
-
 ## Business Case
 
 Netflix's catalog spans thousands of titles across genres, countries, and formats. This analysis investigates questions a content strategy team would actually ask:
