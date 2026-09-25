@@ -2,6 +2,8 @@
 
 An exploratory data analysis project examining what drives high audience ratings across Netflix's content catalog — genre, format (movies vs. shows), producing country, age certification, runtime, and season count — translating the findings into concrete content-strategy recommendations.
 
+**Team:** Katerina Psallida, Clelia Chelmi, [Lilly Kolliniati](https://github.com/lillykolliniati/Git-project-1-)
+
 ## Business Case
 
 Netflix's catalog spans thousands of titles across genres, countries, and formats. This analysis investigates questions a content strategy team would actually ask:
@@ -52,9 +54,9 @@ The **US dominates** both in total production volume and in high-rated productio
 
 ![Age certification analysis: volume, ratings, and type breakdown](age-restrictions.jpg)
 
-The large majority of Netflix's catalog is **Adults Only**. However, **Older Children** and **General Audience** shows achieve notably higher average ratings than other categories, despite representing a much smaller share of the catalog — suggesting an underserved, well-received segment. (For movies specifically, ratings stay fairly similar across all age categories.)
+The large majority of Netflix's catalog is **Adults Only**. **Adults Only** and **Parental Guidance Strongly** content earns the highest average ratings across both movies and shows, while **General Audience** content — despite a meaningful presence in the catalog — rates noticeably lower on average. A few category/type combinations (e.g., movies in the Older Children category) have too few titles to produce a reliable average at all.
 
-> **Recommendation:** explore expanding Older Children and General Audience content specifically, rather than continuing to concentrate almost exclusively on adult content.
+> **Recommendation:** double down on **Parental Guidance Strongly** content — it performs nearly as well as Adults Only content while reaching a broader audience — and investigate why General Audience content underperforms despite its meaningful catalog presence, rather than assuming it's an automatic growth opportunity.
 
 ### Runtime: No Real Relationship to Rating
 
@@ -77,7 +79,7 @@ Movies run measurably longer than shows on average, as expected — but plotting
 1. Content creators should prioritize **Drama, Comedy, Thriller, Crime, and Romance**, particularly when based on real stories, while being more cautious with Animation, Family, and Fantasy investment
 2. **Increase Show production** — audience preference doesn't justify the current Movie-heavy catalog split
 3. The **US leads production and quality**; India, Spain, South Korea, and the UK form a strong, currently under-invested second tier
-4. Expand into **Older Children and General Audience** content, an underserved but well-rated segment
+4. Lean further into **Parental Guidance Strongly** content, which rates nearly as well as Adults Only while reaching a wider audience; treat General Audience content's underperformance as worth investigating, not assuming
 5. **Runtime is not a meaningful lever** for improving ratings
 6. **3–6 season shows** offer a sound, budget-conscious target for renewal decisions
 
